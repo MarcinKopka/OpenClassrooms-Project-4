@@ -9,6 +9,7 @@ Requirements:
 2. Technologies has to be used:
    - UML
    - SQL
+   - MySQL
 
 3. The database should contain:
    - List of clients
